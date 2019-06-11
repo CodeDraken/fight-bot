@@ -30,6 +30,8 @@ client.on('message', async message => {
   switch (command) {
     case 'dailycw':
       return client.commands.get('dailycw').execute(message, args)
+    case 'randcw':
+      return client.commands.get('randcw').execute(message, args)
     case 'tldr':
       return client.commands.get('tldr').execute(message, args)
   }

@@ -14,6 +14,7 @@ const getDailyChallenge = async () => {
     })
   } catch (e) {
     console.log(e)
+    throw e
   }
 }
 
