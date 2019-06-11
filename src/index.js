@@ -1,40 +1,35 @@
 require('dotenv').config()
 
+const fs = require('fs')
+const path = require('path')
 const Discord = require('discord.js')
-const axios = require('axios')
+
+const { prefix } = require('./config.json')
 
 const client = new Discord.Client()
+client.commands = new Discord.Collection()
 
-const getDailyChallenge = async () => {
-  try {
-    const today = new Date()
+const commandFiles = fs
+  .readdirSync(path.join('src', 'commands'))
+  .filter(file => file.endsWith('.js'))
 
-    const challenges = (await axios.get('https://gist.githubusercontent.com/CodeDraken/de9fcf321f86ceb51474b6376f91797f/raw/b68977687d16f16be453fccbe059f2380e75d686/katas-1.json')).data
+commandFiles.forEach(file => {
+  const command = require(path.join(__dirname, 'commands', file))
 
-    return challenges.find(({ title, link, date }) => {
-      const d = new Date(date)
-
-      return d.getDate() === today.getDate() &&
-        d.getMonth() === today.getMonth()
-    })
-  } catch (e) {
-    console.log(e)
-  }
-}
+  client.commands.set(command.name, command)
+})
 
 client.once('ready', () => {
   console.log('Ready!')
 })
 
 client.on('message', async message => {
-  if (message.content === '!cw') {
-    const dailyChallenge = await getDailyChallenge()
+  const args = message.content.slice(prefix.length).split(/ +/)
+  const command = args.shift().toLowerCase()
 
-    if (!dailyChallenge) {
-      return message.channel.send(`I couldn't find today's challenge!`)
-    }
-
-    message.channel.send(`**Today's CodeWars Challenge:** \n\`\`\`diff\n-${dailyChallenge.title}\n\`\`\`\n${dailyChallenge.link}`)
+  switch (command) {
+    case 'dailycw':
+      return client.commands.get('dailycw').execute(message, args)
   }
 })
 
