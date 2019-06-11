@@ -12,7 +12,10 @@ module.exports = {
       if (stderr) throw stderr
 
       if (stdout) {
-        return message.channel.send(stdout)
+        const msg = stdout.split('\n').slice(5).join('\n')
+        return message.channel.send(
+          `**${args}**\n\`\`\`${msg}\`\`\``
+        )
       } else {
         return message.channel.send(`I couldn't find that page.`)
       }
