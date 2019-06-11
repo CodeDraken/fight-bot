@@ -22,12 +22,16 @@ module.exports = {
   description: 'Get the daily CodeWars challenge',
 
   async execute (message, args) {
-    const dailyChallenge = await getDailyChallenge()
+    try {
+      const dailyChallenge = await getDailyChallenge()
 
-    if (!dailyChallenge) {
+      if (!dailyChallenge) {
+        return message.channel.send(`I couldn't find today's challenge!`)
+      }
+
+      return message.channel.send(`**Today's CodeWars Challenge:** \n\`\`\`diff\n-${dailyChallenge.title}\n\`\`\`\n${dailyChallenge.link}`)
+    } catch (e) {
       return message.channel.send(`I couldn't find today's challenge!`)
     }
-
-    message.channel.send(`**Today's CodeWars Challenge:** \n\`\`\`diff\n-${dailyChallenge.title}\n\`\`\`\n${dailyChallenge.link}`)
   }
 }
