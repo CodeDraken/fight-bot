@@ -1,0 +1,47 @@
+{
+  "name": "fight-bot",
+  "version": "0.0.1",
+  "description": "Discord coding challenges bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDraken/fight-bot.git"
+  },
+  "keywords": [],
+  "author": "CodeDraken",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/CodeDraken/fight-bot/issues"
+  },
+  "homepage": "https://github.com/CodeDraken/fight-bot#readme",
+  "standard": {
+    "globals": [
+      "$",
+      "jQuery",
+      "fetch"
+    ],
+    "ignore": [
+      "node_modules/**"
+    ],
+    "parser": "babel-eslint",
+    "envs": [
+      "jest",
+      "mocha",
+      "node"
+    ]
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "nodemon": "^1.19.1",
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0"
+  }
+}
