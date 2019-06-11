@@ -24,16 +24,17 @@ client.once('ready', () => {
 })
 
 client.on('message', async message => {
-  const args = message.content.slice(prefix.length).split(/ +/)
-  const command = args.shift().toLowerCase()
+  try {
+    const args = message.content.slice(prefix.length).split(/ +/)
+    const commandName = args.shift().toLowerCase()
 
-  switch (command) {
-    case 'dailycw':
-      return client.commands.get('dailycw').execute(message, args)
-    case 'randcw':
-      return client.commands.get('randcw').execute(message, args)
-    case 'tldr':
-      return client.commands.get('tldr').execute(message, args)
+    if (!client.commands.has(commandName)) return
+
+    const command = client.commands.get(commandName)
+
+    command.execute(message, args)
+  } catch (e) {
+    console.log(e)
   }
 })
 
