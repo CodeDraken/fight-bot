@@ -1,13 +1,15 @@
-const { exec } = require('child_process')
+const { execFile } = require('child_process')
+const path = require('path')
 
 module.exports = {
   name: 'tldr',
   description: 'Get a tldr man page',
 
   async execute (message, args) {
+    const tldrPath = path.join('node_modules', 'tldr', 'bin', 'tldr')
     args = Array.isArray(args) ? args.join(' ') : args
 
-    exec(`npm run tldr "${args}"`, (err, stdout, stderr) => {
+    execFile(`node`, [tldrPath, args], (err, stdout, stderr) => {
       try {
         if (err) throw err
         if (stderr) throw stderr
@@ -21,6 +23,7 @@ module.exports = {
           return message.channel.send(`I couldn't find that page.`)
         }
       } catch (e) {
+        console.log(e)
         return message.channel.send(`I couldn't find that page.`)
       }
     })
