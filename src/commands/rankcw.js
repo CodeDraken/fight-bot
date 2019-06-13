@@ -46,10 +46,10 @@ module.exports = {
       const cwEmbed = new Discord.RichEmbed()
         .setColor('#8E372A')
         .setTitle(`CodeWars: ${username}`)
-        .setImage(`https://www.codewars.com/users/${username}/badges/large`)
+        .setURL(`https://www.codewars.com/users/${username}`)
         .setTimestamp()
         .setFooter(`Use !rankcw "username" to get another user`)
-        .setDescription(`${username} has ${honor} honora and is rank ${rank}, with an overall score of ${score} placing at #${leaderboardPosition} on the leaderboard.`)
+        .setDescription(`**${username}** has **${honor} honor** and is **rank ${rank}**, with an overall **score of ${score}** placing at **#${leaderboardPosition}** on the leaderboard.`)
 
       Object.keys(languages).forEach(lang => {
         const { name: langRank, score } = languages[lang]
