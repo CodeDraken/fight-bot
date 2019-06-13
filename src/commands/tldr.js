@@ -6,11 +6,11 @@ module.exports = {
   description: 'Get a tldr man page',
 
   async execute (message, args) {
-    const tldrPath = path.join('node_modules', 'tldr', 'bin', 'tldr')
-    args = Array.isArray(args) ? args.join(' ') : args
+    try {
+      const tldrPath = path.join('node_modules', 'tldr', 'bin', 'tldr')
+      args = Array.isArray(args) ? args.join(' ') : args
 
-    execFile(`node`, [tldrPath, args], (err, stdout, stderr) => {
-      try {
+      execFile(`node`, [tldrPath, args], (err, stdout, stderr) => {
         if (err) throw err
         if (stderr) throw stderr
 
@@ -22,10 +22,10 @@ module.exports = {
         } else {
           return message.channel.send(`I couldn't find that page.`)
         }
-      } catch (e) {
-        console.log(e)
-        return message.channel.send(`I couldn't find that page.`)
-      }
-    })
+      })
+    } catch (e) {
+      console.log(e)
+      return message.channel.send(`I couldn't find that page.`)
+    }
   }
 }
