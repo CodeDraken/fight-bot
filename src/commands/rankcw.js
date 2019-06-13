@@ -49,12 +49,12 @@ module.exports = {
         .setURL(`https://www.codewars.com/users/${username}`)
         .setTimestamp()
         .setFooter(`Use !rankcw "username" to get another user`)
-        .setDescription(`**${username}** has **${honor} honor** and is **rank ${rank}**, with an overall **score of ${score}** placing at **#${leaderboardPosition}** on the leaderboard.`)
+        .setDescription(`**${username}** has **${honor || 'no'} honor** and is **ranked at ${rank}**, with an overall **score of ${score || 0}** placing at position **${leaderboardPosition || 'Infinity'}** on the leaderboard.`)
 
       Object.keys(languages).forEach(lang => {
         const { name: langRank, score } = languages[lang]
 
-        cwEmbed.addField(`${lang}`, `${langRank} | score ${score}`, true)
+        cwEmbed.addField(`${lang}`, `${langRank} | score ${score || 0}`, true)
       })
 
       cwEmbed.addBlankField()
