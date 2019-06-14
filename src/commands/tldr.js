@@ -15,7 +15,7 @@ module.exports = {
         if (stderr) throw stderr
 
         if (stdout) {
-          const msg = stdout.split('\n').slice(5).join('\n')
+          const msg = stdout // .split('\n').slice(4).join('\n')
           return message.channel.send(
             `**${args}**\n\`\`\`${msg}\`\`\``
           )
