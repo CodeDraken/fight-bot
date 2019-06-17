@@ -51,11 +51,23 @@ module.exports = {
         .setFooter(`Use !rankcw "username" to get another user`)
         .setDescription(`**${username}** has **${honor || 'no'} honor** and is **ranked at ${rank}**, with an overall **score of ${score || 0}** placing at position **${leaderboardPosition || 'Infinity'}** on the leaderboard.`)
 
-      Object.keys(languages).forEach(lang => {
-        const { name: langRank, score } = languages[lang]
+      if (Object.keys(languages).length > 20) {
+        let langList = ''
 
-        cwEmbed.addField(`${lang}`, `${langRank} | score ${score || 0}`, true)
-      })
+        Object.keys(languages).forEach(lang => {
+          const { name: langRank, score } = languages[lang]
+
+          langList += `- **${lang}** | ${langRank} | score ${score || 0} \n`
+        })
+
+        cwEmbed.addField('languages', langList)
+      } else {
+        Object.keys(languages).forEach(lang => {
+          const { name: langRank, score } = languages[lang]
+
+          cwEmbed.addField(`${lang}`, `${langRank} | score ${score || 0}`, true)
+        })
+      }
 
       cwEmbed.addBlankField()
       cwEmbed.addField(`Total Challenges Completed`, `${completed}`, true)
