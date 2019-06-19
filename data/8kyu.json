@@ -1,0 +1,741 @@
+[
+  {
+    "title": "You Can't Code Under Pressure #1",
+    "link": "https://www.codewars.com/kata/53ee5429ba190077850011d4",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "nasm",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "DNA to RNA Conversion",
+    "link": "https://www.codewars.com/kata/5556282156230d0e5e000089",
+    "languages": [
+      "c",
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "elixir",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "nasm",
+      "purescript",
+      "python",
+      "ruby",
+      "rust",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Do I get a bonus?",
+    "link": "https://www.codewars.com/kata/56f6ad906b88de513f000d96",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "nim",
+      "php",
+      "python",
+      "ruby",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Transportation on vacation ",
+    "link": "https://www.codewars.com/kata/568d0dd208ee69389d000016",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "julia",
+      "nasm",
+      "python",
+      "ruby",
+      "scala",
+      "swift"
+    ]
+  },
+  {
+    "title": "Rock Paper Scissors!",
+    "link": "https://www.codewars.com/kata/5672a98bdbdd995fad00000f",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Opposites Attract",
+    "link": "https://www.codewars.com/kata/555086d53eac039a2a000083",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "groovy",
+      "haskell",
+      "java",
+      "javascript",
+      "julia",
+      "kotlin",
+      "php",
+      "python",
+      "ruby",
+      "scala"
+    ]
+  },
+  {
+    "title": "altERnaTIng cAsE <=> ALTerNAtiNG CaSe",
+    "link": "https://www.codewars.com/kata/56efc695740d30f963000557",
+    "languages": [
+      "c",
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "nasm",
+      "python",
+      "ruby",
+      "rust"
+    ]
+  },
+  {
+    "title": "How many lightsabers do you own?",
+    "link": "https://www.codewars.com/kata/51f9d93b4095e0a7200001b8",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "haskell",
+      "javascript",
+      "php",
+      "python",
+      "ruby",
+      "rust",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Short Long Short",
+    "link": "https://www.codewars.com/kata/50654ddff44f800200000007",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "javascript",
+      "python",
+      "ruby",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Third Angle of a Triangle",
+    "link": "https://www.codewars.com/kata/5a023c426975981341000014",
+    "languages": [
+      "bf",
+      "c",
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "julia",
+      "nasm",
+      "php",
+      "python",
+      "r",
+      "ruby",
+      "rust",
+      "solidity",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Stringy Strings",
+    "link": "https://www.codewars.com/kata/563b74ddd19a3ad462000054",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "swift"
+    ]
+  },
+  {
+    "title": "Function 2 - squaring an argument",
+    "link": "https://www.codewars.com/kata/523b623152af8a30c6000027",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "javascript",
+      "nasm",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Count the Monkeys!",
+    "link": "https://www.codewars.com/kata/56f69d9f9400f508fb000ba7",
+    "languages": [
+      "c",
+      "coffeescript",
+      "crystal",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "nasm",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Sleigh Authentication",
+    "link": "https://www.codewars.com/kata/52adc142b2651f25a8000643",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Welcome!",
+    "link": "https://www.codewars.com/kata/577ff15ad648a14b780000e7",
+    "languages": [
+      "c",
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Find numbers which are divisible by given number",
+    "link": "https://www.codewars.com/kata/55edaba99da3a9c84000003b",
+    "languages": [
+      "cpp",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "How good are you really?",
+    "link": "https://www.codewars.com/kata/5601409514fc93442500010b",
+    "languages": [
+      "c",
+      "clojure",
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Plural",
+    "link": "https://www.codewars.com/kata/52ceafd1f235ce81aa00073a",
+    "languages": [
+      "c",
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "typescript"
+    ]
+  },
+  {
+    "title": "The 'if' function",
+    "link": "https://www.codewars.com/kata/54147087d5c2ebe4f1000805",
+    "languages": [
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "elixir",
+      "haskell",
+      "javascript",
+      "lua",
+      "python",
+      "ruby",
+      "rust"
+    ]
+  },
+  {
+    "title": "Kata Example Twist",
+    "link": "https://www.codewars.com/kata/525c1a07bb6dda6944000031",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "crystal",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Cat years, Dog years",
+    "link": "https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b",
+    "languages": [
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "elixir",
+      "groovy",
+      "java",
+      "javascript",
+      "kotlin",
+      "lua",
+      "nim",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Thinkful - Number Drills: Pixelart planning",
+    "link": "https://www.codewars.com/kata/58630e2ae88af44d2b0000ea",
+    "languages": [
+      "crystal",
+      "csharp",
+      "elixir",
+      "groovy",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "r",
+      "ruby",
+      "rust",
+      "scala"
+    ]
+  },
+  {
+    "title": "Welcome to the City",
+    "link": "https://www.codewars.com/kata/5302d846be2a9189af0001e4",
+    "languages": [
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Formatting decimal places #0",
+    "link": "https://www.codewars.com/kata/5641a03210e973055a00000d",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Is the string uppercase?",
+    "link": "https://www.codewars.com/kata/56cd44e1aa4ac7879200010b",
+    "languages": [
+      "c",
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "haskell",
+      "javascript",
+      "nasm",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Surface Area and Volume of a Box",
+    "link": "https://www.codewars.com/kata/565f5825379664a26b00007c",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Add Length",
+    "link": "https://www.codewars.com/kata/559d2284b5bb6799e9000047",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Grasshopper - Debug sayHello",
+    "link": "https://www.codewars.com/kata/5625618b1fe21ab49f00001f",
+    "languages": [
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "String cleaning",
+    "link": "https://www.codewars.com/kata/57e1e61ba396b3727c000251",
+    "languages": [
+      "csharp",
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Leonardo Dicaprio and Oscars",
+    "link": "https://www.codewars.com/kata/56d49587df52101de70011e4",
+    "languages": [
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Miles per gallon to kilometers per liter",
+    "link": "https://www.codewars.com/kata/557b5e0bddf29d861400005d",
+    "languages": [
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Name Shuffler",
+    "link": "https://www.codewars.com/kata/559ac78160f0be07c200005a",
+    "languages": [
+      "csharp",
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Watermelon",
+    "link": "https://www.codewars.com/kata/55192f4ecd82ff826900089e",
+    "languages": [
+      "csharp",
+      "elixir",
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Lario and Muigi Pipe Problem",
+    "link": "https://www.codewars.com/kata/56b29582461215098d00000f",
+    "languages": [
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "String Templates - Bug Fixing #5",
+    "link": "https://www.codewars.com/kata/55c90cad4b0fe31a7200001f",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Find the Slope",
+    "link": "https://www.codewars.com/kata/55a75e2d0803fea18f00009d",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Evil or Odious",
+    "link": "https://www.codewars.com/kata/56fcfad9c7e1fa2472000034",
+    "languages": [
+      "c",
+      "cpp",
+      "csharp",
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Generate range of integers",
+    "link": "https://www.codewars.com/kata/55eca815d0d20962e1000106",
+    "languages": [
+      "csharp",
+      "elixir",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple validation of a username with regex",
+    "link": "https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Price of Mangoes",
+    "link": "https://www.codewars.com/kata/57a77726bb9944d000000b06",
+    "languages": [
+      "cpp",
+      "csharp",
+      "elixir",
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "validate code with simple regex",
+    "link": "https://www.codewars.com/kata/56a25ba95df27b7743000016",
+    "languages": [
+      "csharp",
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Remove the time",
+    "link": "https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e",
+    "languages": [
+      "coffeescript",
+      "elixir",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Localize The Barycenter of a Triangle",
+    "link": "https://www.codewars.com/kata/5601c5f6ba804403c7000004",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Smallest unused ID",
+    "link": "https://www.codewars.com/kata/55eea63119278d571d00006a",
+    "languages": [
+      "csharp",
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Did she say hallo?",
+    "link": "https://www.codewars.com/kata/56a4addbfd4a55694100001f",
+    "languages": [
+      "csharp",
+      "elixir",
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "What's up next?",
+    "link": "https://www.codewars.com/kata/542ebbdb494db239f8000046",
+    "languages": [
+      "clojure",
+      "elixir",
+      "haskell",
+      "javascript",
+      "python",
+      "rust"
+    ]
+  },
+  {
+    "title": "Fix your code before the garden dies! ",
+    "link": "https://www.codewars.com/kata/57158fb92ad763bb180004e7",
+    "languages": [
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Collatz Conjecture (3n+1)",
+    "link": "https://www.codewars.com/kata/577a6e90d48e51c55e000217",
+    "languages": [
+      "clojure",
+      "cpp",
+      "csharp",
+      "elixir",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Template Strings",
+    "link": "https://www.codewars.com/kata/55a14f75ceda999ced000048",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "elixir",
+      "javascript",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Are there any arrows left?",
+    "link": "https://www.codewars.com/kata/559f860f8c0d6c7784000119",
+    "languages": [
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Days in the year",
+    "link": "https://www.codewars.com/kata/56d6c333c9ae3fc32800070f",
+    "languages": [
+      "elixir",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Ensure question",
+    "link": "https://www.codewars.com/kata/5866fc43395d9138a7000006",
+    "languages": [
+      "elixir",
+      "ruby"
+    ]
+  }
+]

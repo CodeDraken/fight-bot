@@ -1,0 +1,2890 @@
+[
+  {
+    "title": "Range Extraction",
+    "link": "https://www.codewars.com/kata/51ba717bb08c1cd60f00002f",
+    "languages": [
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "julia",
+      "kotlin",
+      "python",
+      "ruby",
+      "rust",
+      "scala"
+    ]
+  },
+  {
+    "title": "The observed PIN",
+    "link": "https://www.codewars.com/kata/5263c6999e0f40dee200059d",
+    "languages": [
+      "c",
+      "clojure",
+      "cpp",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Strings Mix",
+    "link": "https://www.codewars.com/kata/5629db57620258aa9d000014",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "fsharp",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "julia",
+      "kotlin",
+      "nim",
+      "ocaml",
+      "php",
+      "powershell",
+      "python",
+      "r",
+      "racket",
+      "ruby",
+      "rust",
+      "scala",
+      "shell",
+      "swift",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Sum by Factors",
+    "link": "https://www.codewars.com/kata/54d496788776e49e6b00052f",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "elixir",
+      "fortran",
+      "fsharp",
+      "go",
+      "groovy",
+      "haskell",
+      "java",
+      "javascript",
+      "julia",
+      "kotlin",
+      "nim",
+      "ocaml",
+      "php",
+      "powershell",
+      "python",
+      "r",
+      "racket",
+      "reason",
+      "ruby",
+      "rust",
+      "scala",
+      "shell",
+      "swift",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Adding Big Numbers",
+    "link": "https://www.codewars.com/kata/525f4206b73515bffb000b21",
+    "languages": [
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Recover a secret string from random triplets",
+    "link": "https://www.codewars.com/kata/53f40dff5f9d31b813000774",
+    "languages": [
+      "clojure",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "rust"
+    ]
+  },
+  {
+    "title": "Nesting Structure Comparison",
+    "link": "https://www.codewars.com/kata/520446778469526ec0000001",
+    "languages": [
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Pyramid Slide Down",
+    "link": "https://www.codewars.com/kata/551f23362ff852e2ab000037",
+    "languages": [
+      "clojure",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Catching Car Mileage Numbers",
+    "link": "https://www.codewars.com/kata/52c4dd683bfd3b434c000292",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Sum of Intervals",
+    "link": "https://www.codewars.com/kata/52b7ed099cdc285c300001cd",
+    "languages": [
+      "coffeescript",
+      "cpp",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Decode the Morse code, advanced",
+    "link": "https://www.codewars.com/kata/54b72c16cd7f5154e9000457",
+    "languages": [
+      "coffeescript",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "kotlin",
+      "python",
+      "ruby",
+      "rust",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Codewars style ranking system",
+    "link": "https://www.codewars.com/kata/51fda2d95d6efda45e00004e",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Matrix Determinant",
+    "link": "https://www.codewars.com/kata/52a382ee44408cea2500074c",
+    "languages": [
+      "coffeescript",
+      "cpp",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "ruby",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Square into Squares. Protect trees!",
+    "link": "https://www.codewars.com/kata/54eb33e5bc1a25440d000891",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "fsharp",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "julia",
+      "nasm",
+      "nim",
+      "ocaml",
+      "php",
+      "python",
+      "r",
+      "racket",
+      "ruby",
+      "rust",
+      "scala",
+      "shell",
+      "swift",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Large Factorials",
+    "link": "https://www.codewars.com/kata/557f6437bf8dcdd135000010",
+    "languages": [
+      "c",
+      "cpp",
+      "csharp",
+      "java",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Roman Numerals Helper",
+    "link": "https://www.codewars.com/kata/51b66044bce5799a7f000003",
+    "languages": [
+      "c",
+      "coffeescript",
+      "cpp",
+      "javascript",
+      "julia",
+      "python",
+      "ruby",
+      "swift"
+    ]
+  },
+  {
+    "title": "Hamming Numbers",
+    "link": "https://www.codewars.com/kata/526d84b98f428f14a60008da",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Counting Change Combinations",
+    "link": "https://www.codewars.com/kata/541af676b589989aed0009e7",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "csharp",
+      "haskell",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Validate Sudoku with size `NxN`",
+    "link": "https://www.codewars.com/kata/540afbe2dc9f615d5e000425",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "javascript",
+      "python",
+      "ruby",
+      "rust"
+    ]
+  },
+  {
+    "title": "Text align justify",
+    "link": "https://www.codewars.com/kata/537e18b6147aa838f600001b",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "haskell",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Magnet particules in boxes",
+    "link": "https://www.codewars.com/kata/56c04261c3fcf33f2d000534",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "elixir",
+      "fortran",
+      "fsharp",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "julia",
+      "kotlin",
+      "nim",
+      "ocaml",
+      "php",
+      "powershell",
+      "python",
+      "r",
+      "racket",
+      "reason",
+      "ruby",
+      "rust",
+      "scala",
+      "shell",
+      "swift",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Most frequently used words in a text",
+    "link": "https://www.codewars.com/kata/51e056fe544cf36c410000fb",
+    "languages": [
+      "java",
+      "javascript",
+      "kotlin",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Conway's Game of Life - Unlimited Edition",
+    "link": "https://www.codewars.com/kata/52423db9add6f6fc39000354",
+    "languages": [
+      "c",
+      "coffeescript",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "swift"
+    ]
+  },
+  {
+    "title": "Multiplying numbers as strings",
+    "link": "https://www.codewars.com/kata/55911ef14065454c75000062",
+    "languages": [
+      "c",
+      "cpp",
+      "haskell",
+      "javascript",
+      "php"
+    ]
+  },
+  {
+    "title": "Explosive Sum",
+    "link": "https://www.codewars.com/kata/52ec24228a515e620b0005ef",
+    "languages": [
+      "cpp",
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Find the unknown digit",
+    "link": "https://www.codewars.com/kata/546d15cebed2e10334000ed9",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "groovy",
+      "java",
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "Breadcrumb Generator",
+    "link": "https://www.codewars.com/kata/563fbac924106b8bf7000046",
+    "languages": [
+      "csharp",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Simplifying multilinear polynomials",
+    "link": "https://www.codewars.com/kata/55f89832ac9a66518f000118",
+    "languages": [
+      "haskell",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Vigenère Cipher Helper",
+    "link": "https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3",
+    "languages": [
+      "coffeescript",
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "parseInt() reloaded",
+    "link": "https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5",
+    "languages": [
+      "coffeescript",
+      "cpp",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Dependency Injection",
+    "link": "https://www.codewars.com/kata/5302d655be2a91068b0001fb",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Next smaller number with the same digits",
+    "link": "https://www.codewars.com/kata/5659c6d896bc135c4c00021e",
+    "languages": [
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "rust"
+    ]
+  },
+  {
+    "title": "Befunge Interpreter",
+    "link": "https://www.codewars.com/kata/526c7b931666d07889000a3c",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Objectify a URL Query String",
+    "link": "https://www.codewars.com/kata/5286d92ec6b5a9045c000087",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple Fun #159: Middle Permutation",
+    "link": "https://www.codewars.com/kata/58ad317d1541651a740000c5",
+    "languages": [
+      "crystal",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "shell"
+    ]
+  },
+  {
+    "title": "4 By 4 Skyscrapers",
+    "link": "https://www.codewars.com/kata/5671d975d81d6c1c87000022",
+    "languages": [
+      "c",
+      "clojure",
+      "cpp",
+      "csharp",
+      "elixir",
+      "fsharp",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Path Finder #1: can you reach the exit?",
+    "link": "https://www.codewars.com/kata/5765870e190b1472ec0022a2",
+    "languages": [
+      "cpp",
+      "csharp",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Ten-Pin Bowling",
+    "link": "https://www.codewars.com/kata/5531abe4855bcc8d1f00004c",
+    "languages": [
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "UriBuilder",
+    "link": "https://www.codewars.com/kata/51eead3461ccf7db04000017",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Name Your Space",
+    "link": "https://www.codewars.com/kata/514b6c44a337752e67000077",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Infix to Postfix Converter",
+    "link": "https://www.codewars.com/kata/52e864d1ffb6ac25db00017f",
+    "languages": [
+      "cpp",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "-Reverse it, quickly!",
+    "link": "https://www.codewars.com/kata/59ae589c07157afba80000a7",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Esolang Interpreters #3 - Custom Paintf**k Interpreter",
+    "link": "https://www.codewars.com/kata/5868a68ba44cfc763e00008d",
+    "languages": [
+      "csharp",
+      "dart",
+      "fsharp",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "lua",
+      "nim",
+      "php",
+      "python",
+      "ruby",
+      "rust",
+      "swift",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Getting along with Integer Partitions",
+    "link": "https://www.codewars.com/kata/55cf3b567fc0e02b0b00000b",
+    "languages": [
+      "c",
+      "clojure",
+      "coffeescript",
+      "cpp",
+      "crystal",
+      "csharp",
+      "fsharp",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "julia",
+      "nim",
+      "ocaml",
+      "php",
+      "python",
+      "r",
+      "racket",
+      "ruby",
+      "rust",
+      "scala",
+      "shell",
+      "swift",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Instant Runoff Voting",
+    "link": "https://www.codewars.com/kata/52996b5c99fdcb5f20000004",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Connect Four",
+    "link": "https://www.codewars.com/kata/56882731514ec3ec3d000009",
+    "languages": [
+      "cpp",
+      "csharp",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Default Arguments",
+    "link": "https://www.codewars.com/kata/52605419be184942d400003d",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Smallest possible sum ",
+    "link": "https://www.codewars.com/kata/52f677797c461daaf7000740",
+    "languages": [
+      "cpp",
+      "crystal",
+      "haskell",
+      "javascript",
+      "kotlin",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Factorial tail",
+    "link": "https://www.codewars.com/kata/55c4eb777e07c13528000021",
+    "languages": [
+      "c",
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "haskell",
+      "javascript",
+      "objc",
+      "php",
+      "python",
+      "ruby",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Determining if a graph has a solution",
+    "link": "https://www.codewars.com/kata/53223653a191940f2b000877",
+    "languages": [
+      "haskell",
+      "javascript",
+      "purescript"
+    ]
+  },
+  {
+    "title": "Simple Fun #27: Rectangle Rotation",
+    "link": "https://www.codewars.com/kata/5886e082a836a691340000c3",
+    "languages": [
+      "c",
+      "coffeescript",
+      "cpp",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Boggle Word Checker",
+    "link": "https://www.codewars.com/kata/57680d0128ed87c94f000bfd",
+    "languages": [
+      "cpp",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Undo/Redo",
+    "link": "https://www.codewars.com/kata/531489f2bb244a5b9f00077e",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Advanced Events",
+    "link": "https://www.codewars.com/kata/52d4678038644497e900007c",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Number of Proper Fractions with Denominator d",
+    "link": "https://www.codewars.com/kata/55b7bb74a0256d4467000070",
+    "languages": [
+      "c",
+      "cpp",
+      "haskell",
+      "java",
+      "javascript",
+      "nasm",
+      "objc",
+      "python",
+      "ruby",
+      "scala"
+    ]
+  },
+  {
+    "title": "All Balanced Parentheses",
+    "link": "https://www.codewars.com/kata/5426d7a2c2c7784365000783",
+    "languages": [
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Total increasing or decreasing numbers up to a power of 10",
+    "link": "https://www.codewars.com/kata/55b195a69a6cc409ba000053",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "scala"
+    ]
+  },
+  {
+    "title": "Algebraic Lists",
+    "link": "https://www.codewars.com/kata/529a92d9aba78c356b000353",
+    "languages": [
+      "javascript",
+      "python",
+      "rust"
+    ]
+  },
+  {
+    "title": "ES5 Generators(i)",
+    "link": "https://www.codewars.com/kata/53c29a6abb5187180d000b65",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "A Simplistic TCP Finite State Machine (FSM)",
+    "link": "https://www.codewars.com/kata/54acc128329e634e9a000362",
+    "languages": [
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "How many numbers III?",
+    "link": "https://www.codewars.com/kata/5877e7d568909e5ff90017e6",
+    "languages": [
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Path Finder #2: shortest path",
+    "link": "https://www.codewars.com/kata/57658bfa28ed87ecfa00058a",
+    "languages": [
+      "cpp",
+      "csharp",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Count ones in a segment",
+    "link": "https://www.codewars.com/kata/596d34df24a04ee1e3000a25",
+    "languages": [
+      "c",
+      "cpp",
+      "haskell",
+      "java",
+      "javascript",
+      "nasm",
+      "python"
+    ]
+  },
+  {
+    "title": "Connect Four: Who Won?",
+    "link": "https://www.codewars.com/kata/529962509ce9545c76000afa",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "NIM the game",
+    "link": "https://www.codewars.com/kata/54120de842dff35232000195",
+    "languages": [
+      "clojure",
+      "haskell",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Born to be chained",
+    "link": "https://www.codewars.com/kata/54c27ef1fb7da0118600046a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Decimal to any Rational or Irrational Base Converter",
+    "link": "https://www.codewars.com/kata/5509609d1dbf20a324000714",
+    "languages": [
+      "csharp",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "The Greatest Warrior",
+    "link": "https://www.codewars.com/kata/5941c545f5c394fef900000c",
+    "languages": [
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Differentiate a polynomial",
+    "link": "https://www.codewars.com/kata/566584e3309db1b17d000027",
+    "languages": [
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "SKRZAT!!!",
+    "link": "https://www.codewars.com/kata/528a0762f51e7a4f1800072a",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "One Line Task: Squirrel And Tree",
+    "link": "https://www.codewars.com/kata/59016379ee5456d8cc00000f",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Functional Binary Trees",
+    "link": "https://www.codewars.com/kata/527c1fc78699012e43000cc8",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Word, char and line count",
+    "link": "https://www.codewars.com/kata/5286a298f8fc1b7667000c1c",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Regular expression for binary numbers divisible by 5",
+    "link": "https://www.codewars.com/kata/5647c3858d4acbbe550000ad",
+    "languages": [
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Largest Numeric Palindrome",
+    "link": "https://www.codewars.com/kata/556f4a5baa4ea7afa1000046",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Longest Common Subsequence (Performance version)",
+    "link": "https://www.codewars.com/kata/593ff8b39e1cc4bae9000070",
+    "languages": [
+      "cpp",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "kotlin",
+      "ruby",
+      "scala"
+    ]
+  },
+  {
+    "title": "The fusc function -- Part 2",
+    "link": "https://www.codewars.com/kata/57040e445a726387a1001cf7",
+    "languages": [
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "Shortest Knight Path",
+    "link": "https://www.codewars.com/kata/549ee8b47111a81214000941",
+    "languages": [
+      "cpp",
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Find all possible number combos that sum to a number",
+    "link": "https://www.codewars.com/kata/555b1890a75b930e63000023",
+    "languages": [
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "LRU Cache",
+    "link": "https://www.codewars.com/kata/53b406e67040e51e17000c0a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Polydivisible Numbers",
+    "link": "https://www.codewars.com/kata/556206664efbe6376700005c",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Burrows-Wheeler-Transformation",
+    "link": "https://www.codewars.com/kata/54ce4c6804fcc440a1000ecb",
+    "languages": [
+      "cpp",
+      "csharp",
+      "haskell",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Fluent Calculator",
+    "link": "https://www.codewars.com/kata/5578a806350dae5b05000021",
+    "languages": [
+      "csharp",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Karnaugh's detonating timer (a k-map primer)",
+    "link": "https://www.codewars.com/kata/527154e03594b9e3d2000533",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Sums of Perfect Squares",
+    "link": "https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084",
+    "languages": [
+      "cpp",
+      "crystal",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "The learning game - Machine Learning #1",
+    "link": "https://www.codewars.com/kata/5695995cc26a1e90fe00004d",
+    "languages": [
+      "cpp",
+      "go",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Functional streams",
+    "link": "https://www.codewars.com/kata/5512ec4bbe2074421d00028c",
+    "languages": [
+      "csharp",
+      "haskell",
+      "java",
+      "javascript"
+    ]
+  },
+  {
+    "title": "How low can you go?",
+    "link": "https://www.codewars.com/kata/52bd8335d9aca8fb16000341",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Algebraic Data Types",
+    "link": "https://www.codewars.com/kata/546d245dddbcbd291c00106e",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Chinese Numeral Encoder",
+    "link": "https://www.codewars.com/kata/52608f5345d4a19bed000b31",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Currying vs. Partial Application",
+    "link": "https://www.codewars.com/kata/53cf7e37e9876c35a60002c9",
+    "languages": [
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "Brainfuck Translator",
+    "link": "https://www.codewars.com/kata/58924f2ca8c628f21a0001a1",
+    "languages": [
+      "c",
+      "coffeescript",
+      "cpp",
+      "java",
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "Mystery Function",
+    "link": "https://www.codewars.com/kata/56b2abae51646a143400001d",
+    "languages": [
+      "haskell",
+      "java",
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "80's Kids #10: Captain Planet",
+    "link": "https://www.codewars.com/kata/568eeb1ce6f9e820c800000b",
+    "languages": [
+      "coffeescript",
+      "javascript",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Simple Memory Manager",
+    "link": "https://www.codewars.com/kata/536e7c7fd38523be14000ca2",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simplexer",
+    "link": "https://www.codewars.com/kata/54b8204dcd7f514bf2000348",
+    "languages": [
+      "csharp",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "A simple Tic-tac-toe class",
+    "link": "https://www.codewars.com/kata/529b9ec8064ec38636000134",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Escape the maze",
+    "link": "https://www.codewars.com/kata/5877027d885d4f6144000404",
+    "languages": [
+      "c",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Arithmetic Expressions Evaluator",
+    "link": "https://www.codewars.com/kata/529f5e262281a70d9b00088a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Route Calculator",
+    "link": "https://www.codewars.com/kata/581bc0629ad9ff9873000316",
+    "languages": [
+      "javascript",
+      "python",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Memoized Log Cutting",
+    "link": "https://www.codewars.com/kata/54b058ce56f22dc6fe0011df",
+    "languages": [
+      "dart",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "RoboScript #3 - Implement the RS2 Specification",
+    "link": "https://www.codewars.com/kata/58738d518ec3b4bf95000192",
+    "languages": [
+      "coffeescript",
+      "java",
+      "javascript",
+      "php",
+      "python",
+      "rust"
+    ]
+  },
+  {
+    "title": "better Add Floats",
+    "link": "https://www.codewars.com/kata/5293ef9b6144df008d000147",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Stack Arithmetic Machine",
+    "link": "https://www.codewars.com/kata/54c1bf903f0696f04600068b",
+    "languages": [
+      "csharp",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Float to Binary Conversion",
+    "link": "https://www.codewars.com/kata/540ddb07716ab397e1000797",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Coloured Lattice Points Forming Coloured Triangles",
+    "link": "https://www.codewars.com/kata/57cebf1472f98327760003cd",
+    "languages": [
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Last digits of N^2 == N",
+    "link": "https://www.codewars.com/kata/584dee06fe9c9aef810001e8",
+    "languages": [
+      "haskell",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Curry me softly",
+    "link": "https://www.codewars.com/kata/55ba24f1cb367c48ac0000a2",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Unflatten a list (Harder than easy)",
+    "link": "https://www.codewars.com/kata/57e5aa1d7fbcc988800001ae",
+    "languages": [
+      "coffeescript",
+      "csharp",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Create a funnel",
+    "link": "https://www.codewars.com/kata/585b373ce08bae41b800006e",
+    "languages": [
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Compute a convex hull",
+    "link": "https://www.codewars.com/kata/5657d8bdafec0a27c800000f",
+    "languages": [
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Hash Hacker",
+    "link": "https://www.codewars.com/kata/52a8f768a8ddc5070c000ca2",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Minimum Number of Coins",
+    "link": "https://www.codewars.com/kata/557f138eb472f5caa7000062",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "String indexOf (and lastIndexOf) with regex",
+    "link": "https://www.codewars.com/kata/52fa7b5704bc8f7c85000d32",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "ABC - Esoteric programming #2",
+    "link": "https://www.codewars.com/kata/55df8bb5b435f0628a0000c8",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Counting in English one, two, three... to 2 Quadrillion (2,000,000,000,000,000)",
+    "link": "https://www.codewars.com/kata/5461c0e29726f66bb60010b1",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Can you really count divisors?",
+    "link": "https://www.codewars.com/kata/58b16300a470d47498000811",
+    "languages": [
+      "cpp",
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Simple Fun #209: Largest Room Area",
+    "link": "https://www.codewars.com/kata/58feb9c16dcb746414000099",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Fast Stats on an Array",
+    "link": "https://www.codewars.com/kata/5240e3a98d333f81950001ad",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Square and Cube of a Number Become Prime When Reversed",
+    "link": "https://www.codewars.com/kata/5644a69f7849c9c097000073",
+    "languages": [
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Trailing zeros in factorials, in any given integer base",
+    "link": "https://www.codewars.com/kata/544483c6435206617a00012c",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "T.T.T.#2: Equal to 24",
+    "link": "https://www.codewars.com/kata/574be65a974b95eaf40008da",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Fancy Schmancy Sort",
+    "link": "https://www.codewars.com/kata/53006ec8c7c0f4f5e00002c3",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Take It or Leave It Interview Strategy",
+    "link": "https://www.codewars.com/kata/5390ae7acd51b62a040009fc",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Path Finder #4: where are you?",
+    "link": "https://www.codewars.com/kata/5a0573c446d8435b8e00009f",
+    "languages": [
+      "cpp",
+      "csharp",
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Helpers For a 3DGame I: Biggest Triangle in a Sphere",
+    "link": "https://www.codewars.com/kata/57deba2e8a8b8db0a4000ad6",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Simple Fun #119: Sub Sets Parity",
+    "link": "https://www.codewars.com/kata/589d5c80c31aa590e300006b",
+    "languages": [
+      "csharp",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Church numbers",
+    "link": "https://www.codewars.com/kata/546e8dc735a6613de50007ea",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Space Invaders Underdog",
+    "link": "https://www.codewars.com/kata/59fabc2406d5b638f200004a",
+    "languages": [
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Haskell List Comprehension (ii)",
+    "link": "https://www.codewars.com/kata/53c8bcb1689f84238c000661",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Set - the card game",
+    "link": "https://www.codewars.com/kata/522f421badceba9f8a0000a6",
+    "languages": [
+      "javascript",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Simple Fun #297: Codewars T-shirt",
+    "link": "https://www.codewars.com/kata/591e996f67cd75f274000006",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple Fun #148: Exchange Sort",
+    "link": "https://www.codewars.com/kata/58aa8b0538cf2eced5000115",
+    "languages": [
+      "csharp",
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Chess Fun #8: Amazon Checkmate",
+    "link": "https://www.codewars.com/kata/5897f30d948beb78580000b2",
+    "languages": [
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Big Arithmetic - integer add/subtract",
+    "link": "https://www.codewars.com/kata/54d130bb11b05bd224000212",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "N Linear",
+    "link": "https://www.codewars.com/kata/5aa417aa4a6b344e2200009d",
+    "languages": [
+      "cpp",
+      "javascript",
+      "rust"
+    ]
+  },
+  {
+    "title": "JSON Parser",
+    "link": "https://www.codewars.com/kata/55aa170b54c32468c30000a9",
+    "languages": [
+      "haskell",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Mahjong - #1 Pure Hand",
+    "link": "https://www.codewars.com/kata/56ad7a4978b5162445000056",
+    "languages": [
+      "java",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Elemental Words",
+    "link": "https://www.codewars.com/kata/56fa9cd6da8ca623f9001233",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple Syntax Tokenizing",
+    "link": "https://www.codewars.com/kata/599a0d02755eae7070000079",
+    "languages": [
+      "haskell",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Permutational Primes ",
+    "link": "https://www.codewars.com/kata/55eec0ee00ae4a8fa0000075",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "One Line Task: Zero Or One",
+    "link": "https://www.codewars.com/kata/59031db02b0070a923000110",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "String Compression Challenge",
+    "link": "https://www.codewars.com/kata/5378d0eba3abed845a000c03",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Deep Assignment",
+    "link": "https://www.codewars.com/kata/56242a31689c352359000044",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Counting String Subsequences",
+    "link": "https://www.codewars.com/kata/52f7892a747862fc9a0009a6",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Guess the Digits and Expression",
+    "link": "https://www.codewars.com/kata/57f9bbe759eb61a049000160",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Priori Incantatem",
+    "link": "https://www.codewars.com/kata/574d0b01b4b769b207000ca3",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Brace expansion",
+    "link": "https://www.codewars.com/kata/597f11f61fe82a80c200002c",
+    "languages": [
+      "haskell",
+      "javascript"
+    ]
+  },
+  {
+    "title": "One Line Task: Remove Zeros",
+    "link": "https://www.codewars.com/kata/58fecb82f3dff0a347000018",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Finish this Mini Sudoku",
+    "link": "https://www.codewars.com/kata/556b4fdfc0f8bbbd2d000019",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Bribe the Guards of the Crown Jewels",
+    "link": "https://www.codewars.com/kata/56d5078e945d0d5d35001b74",
+    "languages": [
+      "haskell",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Dice rolls threshold",
+    "link": "https://www.codewars.com/kata/55d18ceefdc5aba4290000e5",
+    "languages": [
+      "haskell",
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Breaking into words",
+    "link": "https://www.codewars.com/kata/552fd698ac49561baf00006e",
+    "languages": [
+      "haskell",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Shortest code: Virus in Apple",
+    "link": "https://www.codewars.com/kata/56ffd817140fcc0c3900099b",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "A Knight's Tour",
+    "link": "https://www.codewars.com/kata/5664740e6072d2eebe00001b",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "We are Family",
+    "link": "https://www.codewars.com/kata/5b602842146a2862d9000085",
+    "languages": [
+      "java",
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "Hacker's job",
+    "link": "https://www.codewars.com/kata/573749a327aecf1bf10017fd",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Fastest Code : Count animals",
+    "link": "https://www.codewars.com/kata/57121e6fcdbf63eb94000e51",
+    "languages": [
+      "haskell",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Spaghetti Code - #2 Hard",
+    "link": "https://www.codewars.com/kata/586dd5f4a44cfc48bb000011",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Binary Search Tree using Arrays",
+    "link": "https://www.codewars.com/kata/5303617c1f5c12fc28000237",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Lowest base system",
+    "link": "https://www.codewars.com/kata/58bc16e271b1e4c5d3000151",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Save Mark Watney- The Martian!",
+    "link": "https://www.codewars.com/kata/57fcadd2334ad3bbbc00023c",
+    "languages": [
+      "javascript",
+      "typescript"
+    ]
+  },
+  {
+    "title": "Spinning Rings - Fidget Spinner Edition",
+    "link": "https://www.codewars.com/kata/59b0b7cd2a00d219ab0000c5",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Secret Agent - Discriminate Missions",
+    "link": "https://www.codewars.com/kata/557a5682f896b5c1eb000048",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Robozzle simulator",
+    "link": "https://www.codewars.com/kata/5977b5bcfd72c6a99f0000c4",
+    "languages": [
+      "coffeescript",
+      "javascript",
+      "ruby"
+    ]
+  },
+  {
+    "title": "The ugly truth about reduce",
+    "link": "https://www.codewars.com/kata/54c29efd6fd290c8140017d7",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Greedy thief",
+    "link": "https://www.codewars.com/kata/58296c407da141e2c7000271",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Like itertools : combinations",
+    "link": "https://www.codewars.com/kata/582da6ba06e37f9b75000510",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Making Change: Part 2",
+    "link": "https://www.codewars.com/kata/5365c93f8d004c94c90002e7",
+    "languages": [
+      "javascript",
+      "ruby"
+    ]
+  },
+  {
+    "title": "One Line Task: Theatre Square",
+    "link": "https://www.codewars.com/kata/590c581df06c49ea5e000078",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Domino Tiling - 2 x N Board",
+    "link": "https://www.codewars.com/kata/5a59e029145c46eaac000062",
+    "languages": [
+      "javascript",
+      "python",
+      "scala"
+    ]
+  },
+  {
+    "title": "Tournament Cross Table with Sonneborn-Berger Score",
+    "link": "https://www.codewars.com/kata/5a392890c5e284a7a300003f",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Product-Sum Numbers",
+    "link": "https://www.codewars.com/kata/5b16bbd2c8c47ec58300016e",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "One Line Task: Strange Compare",
+    "link": "https://www.codewars.com/kata/590ac5d9d1d7061409000014",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "new Deck() of Cards",
+    "link": "https://www.codewars.com/kata/534a924d0d03add9ce000ba2",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Fastest Code : Excel Puzzle #1",
+    "link": "https://www.codewars.com/kata/571b93687beb0a8ade000a80",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Play Tetris : Shape anastomosis",
+    "link": "https://www.codewars.com/kata/56c85eebfd8fc02551000281",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "[BF] Sort string",
+    "link": "https://www.codewars.com/kata/582cb38ecd8583b168000114",
+    "languages": [
+      "bf",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Counting Nested Functions",
+    "link": "https://www.codewars.com/kata/59e6189641b48b8e6c001c33",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "From..To..Series #5: from word1 to word2. How many steps should shift",
+    "link": "https://www.codewars.com/kata/58076cf50b5a776505000b97",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Boggle solver",
+    "link": "https://www.codewars.com/kata/5401a398b591ae333f00082d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Linear Equation Solver",
+    "link": "https://www.codewars.com/kata/56d6d927c9ae3f115b0008dd",
+    "languages": [
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Miracle Sort",
+    "link": "https://www.codewars.com/kata/59b4cf87bf10a4cf59000060",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Shortest Common Supersequence",
+    "link": "https://www.codewars.com/kata/551719daa5808b91e4000445",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "One Line Task: Snail Coordinate",
+    "link": "https://www.codewars.com/kata/59074d68cc21024b4300006d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple Fun #381: Find d = a + b + c II",
+    "link": "https://www.codewars.com/kata/5a13d36046d843105e000106",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Count Squares In the Chess Board",
+    "link": "https://www.codewars.com/kata/5bc6f9110ca59325c1000254",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Find out the longest string chain",
+    "link": "https://www.codewars.com/kata/56f0c9134d1e060fd8001f64",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Complete the photo pattern",
+    "link": "https://www.codewars.com/kata/58477f76ad2567b465000153",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Photoshop like - Magic Wand (select pixels by threshold)",
+    "link": "https://www.codewars.com/kata/5912950fe5bc241f9b0000af",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Haskell List Comprehension (iii)",
+    "link": "https://www.codewars.com/kata/53c8ce4a50fe705cae000483",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "arrayToString and stringToArray",
+    "link": "https://www.codewars.com/kata/582087e5b81f7063a7000242",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Tower Defense: Risk Analysis",
+    "link": "https://www.codewars.com/kata/5a57faad880385f3b60000d0",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Maze generator",
+    "link": "https://www.codewars.com/kata/52bd52e3d0a2d49c8900006a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Tap Into Mr. Mxyzinjin's Toy Safe",
+    "link": "https://www.codewars.com/kata/5bbe26c718ea5d2ffa0000a2",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "One Line Task: Date Of Solar Calendar",
+    "link": "https://www.codewars.com/kata/59c5c02423daccae7700017d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Tower of Hanoi",
+    "link": "https://www.codewars.com/kata/527f782024b930114700076e",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Combinations with identicals",
+    "link": "https://www.codewars.com/kata/57fd8d7187b8012f4700062a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "new IntStorage(byteLength, ints).read(from, count);",
+    "link": "https://www.codewars.com/kata/538daad88ca4a39acb000705",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Shortest Code : Remove screws II",
+    "link": "https://www.codewars.com/kata/57104927d860a31eab000b5d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple Fun #197: Dividing marbles",
+    "link": "https://www.codewars.com/kata/58c62573ea6572a69d000006",
+    "languages": [
+      "haskell",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Fastest Code : Half it IV",
+    "link": "https://www.codewars.com/kata/5719b28964a584476500057d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "'Magic' recursion call depth number",
+    "link": "https://www.codewars.com/kata/5c1b23aa34fb628f2e000043",
+    "languages": [
+      "java",
+      "javascript",
+      "php",
+      "python"
+    ]
+  },
+  {
+    "title": "Numbers with Collatz Starting Patterns",
+    "link": "https://www.codewars.com/kata/5992e103b1429877bb00006b",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Close only counts in Floats and Grenades",
+    "link": "https://www.codewars.com/kata/526993d710342801b6000e85",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "N queen problem",
+    "link": "https://www.codewars.com/kata/52cdc1b015db27c484000031",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Are you Licensed to write JS?",
+    "link": "https://www.codewars.com/kata/5bb429a97631f02eec00001f",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Prime or not. [Hard mode] JK",
+    "link": "https://www.codewars.com/kata/5ae9933f783bb40ae800008a",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Challenge Fun : Rotate Clocks",
+    "link": "https://www.codewars.com/kata/59c205ee9f0cbc5eb000004d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Clock Hands",
+    "link": "https://www.codewars.com/kata/54605ca35bff82c575000d86",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Let them bounce",
+    "link": "https://www.codewars.com/kata/55d5f550f0f026f7de00000b",
+    "languages": [
+      "clojure",
+      "coffeescript",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Identifying identifiers",
+    "link": "https://www.codewars.com/kata/52cda7e28d673a597c00091a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "One Line Task: 1 Two 3 Four 5!",
+    "link": "https://www.codewars.com/kata/59f29911bee845b000000083",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Through the Maze",
+    "link": "https://www.codewars.com/kata/566025b6ad6fcf8e2e00007a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Happy Coding : Don't Break My Heart",
+    "link": "https://www.codewars.com/kata/599d3a52a8b7539663000052",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Point in a polygon",
+    "link": "https://www.codewars.com/kata/53319be3f64dbaf21800001f",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "One Line Task: The Order Of Ribbons",
+    "link": "https://www.codewars.com/kata/5a4af7ae880385882c000067",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "象棋 (Xiangqi/Chinese Chess) Board Validator",
+    "link": "https://www.codewars.com/kata/58f1e4a2445a4ccef600006d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "T.T.T.58: Simple face recognition system",
+    "link": "https://www.codewars.com/kata/57c7a717fa9fc5bcd00001c9",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Domino Tiling - 3 x N Board",
+    "link": "https://www.codewars.com/kata/5993dcfca6a7632807000017",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Square Huge Numbers",
+    "link": "https://www.codewars.com/kata/5505209408b86fa225000672",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Carmichael function",
+    "link": "https://www.codewars.com/kata/53c92d34689f84a2d5000e48",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Computing the complex Gamma function",
+    "link": "https://www.codewars.com/kata/590bb4bd0d363131ab000085",
+    "languages": [
+      "csharp",
+      "javascript",
+      "php"
+    ]
+  },
+  {
+    "title": "T.T.T.55: Find a matrix in a matrix",
+    "link": "https://www.codewars.com/kata/57c535f82b8520076700017d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Array.prototype.splice(from, count, insertItems...) - Advanced",
+    "link": "https://www.codewars.com/kata/53b30ccc4a24088126000c45",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Spidey Swings Across Town",
+    "link": "https://www.codewars.com/kata/59cda1eda25c8c4ffd000081",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Touchdown?",
+    "link": "https://www.codewars.com/kata/52a401f1a65172ce8f00008d",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "The ugly truth about reduce (iii)",
+    "link": "https://www.codewars.com/kata/54c2d10ffb7da04f04000bca",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "not So Easy: Replace character according to shape",
+    "link": "https://www.codewars.com/kata/57f44ed37b70985e01000094",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Clue - Esoteric programming #4",
+    "link": "https://www.codewars.com/kata/56a5491471b6f0d40a000001",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Plain Condorcet Voting Method",
+    "link": "https://www.codewars.com/kata/54207abcde62089002000a7d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Play FlappyBird : Advance Bravely",
+    "link": "https://www.codewars.com/kata/56cd5d09aa4ac772e3000323",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Organize a Round-robin tournament",
+    "link": "https://www.codewars.com/kata/561c20edc71c01139000017c",
+    "languages": [
+      "javascript",
+      "php"
+    ]
+  },
+  {
+    "title": "Eight Queens Puzzle",
+    "link": "https://www.codewars.com/kata/561bed6a31daa8df7400000e",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Counting Sort",
+    "link": "https://www.codewars.com/kata/57d287d1900f6e219d00000c",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Find the deadnauts",
+    "link": "https://www.codewars.com/kata/528f5782d784361512000755",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Calculator: The game--Play game Series #11",
+    "link": "https://www.codewars.com/kata/5aefb889d2ee276a73000063",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Bob's Signs",
+    "link": "https://www.codewars.com/kata/52fd0a86f721478c8f00080a",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Game of Thrones : Wildlings are coming!",
+    "link": "https://www.codewars.com/kata/56d1e13be0b15062d5001148",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Topological Sort",
+    "link": "https://www.codewars.com/kata/55f10facf351f5e236000014",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Easy Sudoku?",
+    "link": "https://www.codewars.com/kata/5703bd0b022cd12bcd0011fb",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "IPv6 address validation and contraction",
+    "link": "https://www.codewars.com/kata/54fa4e210609868fce0002bf",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Broken Image - Puzzles #1",
+    "link": "https://www.codewars.com/kata/55a85659b0e763acc2000015",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "English words to numbers",
+    "link": "https://www.codewars.com/kata/5571ce77994ef90b17000167",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Precise fractions pt. 2 - conversion",
+    "link": "https://www.codewars.com/kata/54db82ea19fa47e2d6000713",
+    "languages": [
+      "java",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Polygon Orientation",
+    "link": "https://www.codewars.com/kata/557ac2ba9b55bbfb76000051",
+    "languages": [
+      "csharp",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Lempel–Ziv–Welch",
+    "link": "https://www.codewars.com/kata/55833364a2e09a6887000166",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Layout ordered sections in columns",
+    "link": "https://www.codewars.com/kata/52fecae6aff455e43e0000da",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Regular Expressions Engine",
+    "link": "https://www.codewars.com/kata/5612a0d653d31f401b00001a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Callback Set",
+    "link": "https://www.codewars.com/kata/53ece04d26358de1d400010a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Find the hidden object",
+    "link": "https://www.codewars.com/kata/56a02ed89fc5c7dc3600003b",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Rubik's Cube",
+    "link": "https://www.codewars.com/kata/576a616359b1163437001c3b",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Three Dots--Play game Series #8 ",
+    "link": "https://www.codewars.com/kata/59a67e34485a4d1ccb0000ae",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Canvas Fun #4: Warning! Traffic Light Ahead!",
+    "link": "https://www.codewars.com/kata/5a7e4e3a5084d7a75d0000b4",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Sorter(getter)(order)",
+    "link": "https://www.codewars.com/kata/53b2fd63bcfb1b82b900126e",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Aaaaaand theeeeeen",
+    "link": "https://www.codewars.com/kata/564408d8cc886dc27b00006b",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Prime Fun #2",
+    "link": "https://www.codewars.com/kata/587c23f6289b36bd1900003e",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Swedish National Identity Number",
+    "link": "https://www.codewars.com/kata/5835dea5b468c0099a000091",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Scrambled Numbers Sorting",
+    "link": "https://www.codewars.com/kata/58efb11b5b77b37ced000001",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Depot organization 1",
+    "link": "https://www.codewars.com/kata/5a54348880eba8840600008f",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Beam me up Statey using ReactJS",
+    "link": "https://www.codewars.com/kata/5ac37e32b4218298130001aa",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Count the connected components",
+    "link": "https://www.codewars.com/kata/55eaf138c1f4e9eef1000047",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple Fun #224: Blindfolded",
+    "link": "https://www.codewars.com/kata/5902f769dbf4ccbdd900005d",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Function Wrapper: Nullity",
+    "link": "https://www.codewars.com/kata/553027ab1aa8ef1d2b000015",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Lost In Time",
+    "link": "https://www.codewars.com/kata/55e4b65287d24e3395000043",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "RuplesJS #4: String Formatting",
+    "link": "https://www.codewars.com/kata/5691c4b7e3112a068a000044",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Challenge Fun #20: Edge Detection",
+    "link": "https://www.codewars.com/kata/58bfa40c43fadb4edb0000b5",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Function Wrappers: pool",
+    "link": "https://www.codewars.com/kata/5522a4c1e1be1e77f4000a88",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Pirate Island Conquer Part 3",
+    "link": "https://www.codewars.com/kata/596557071f13e4e86a000019",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Spiral corner",
+    "link": "https://www.codewars.com/kata/572ffcd52713bf4cb4000d13",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Synchronous Promise",
+    "link": "https://www.codewars.com/kata/597a095b43cd2c367c00006b",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Path Finder #5: there's someone here",
+    "link": "https://www.codewars.com/kata/5a05969cba2a14e541000129",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Prime Fun #1",
+    "link": "https://www.codewars.com/kata/587a45b954a6780e37000176",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Canvas Fun #5: Count The Smiling Face",
+    "link": "https://www.codewars.com/kata/5a81041cfd8c06b403000099",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Party with aliens",
+    "link": "https://www.codewars.com/kata/578a55897c77f554d00018b9",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple Fun #44: Three Split",
+    "link": "https://www.codewars.com/kata/588833be1418face580000d8",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "FloatStream",
+    "link": "https://www.codewars.com/kata/5607d38ea70b29343100007b",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "LU Decomposition",
+    "link": "https://www.codewars.com/kata/55325a23be80e56453000082",
+    "languages": [
+      "coffeescript",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Guess the list pattern #2",
+    "link": "https://www.codewars.com/kata/59baef94afcda27a78000021",
+    "languages": [
+      "coffeescript",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "All representations as binomial coefficient, or: How often in Pascal's Triangle ?",
+    "link": "https://www.codewars.com/kata/58d98655ac203322a6000081",
+    "languages": [
+      "java",
+      "javascript"
+    ]
+  },
+  {
+    "title": "Long Division",
+    "link": "https://www.codewars.com/kata/58cd329a1a8e15b4b90000cc",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Css selectors builder",
+    "link": "https://www.codewars.com/kata/597f2b4bcfba201979000089",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Anakin's Colorful Protocol Droids",
+    "link": "https://www.codewars.com/kata/562086bbaacc2b4d13000047",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Buying the Farm : Irrigation",
+    "link": "https://www.codewars.com/kata/5af4855c68e6449fbf00015c",
+    "languages": [
+      "go",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Domino Tiling - 5 x 2N Board",
+    "link": "https://www.codewars.com/kata/5a77f76bfd5777c6c300001c",
+    "languages": [
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Submatrix",
+    "link": "https://www.codewars.com/kata/559323e59ddea3c94800006f",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simulating a Multiserver Queue",
+    "link": "https://www.codewars.com/kata/52e77721ba20f95a440004c9",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Subnet Calculating",
+    "link": "https://www.codewars.com/kata/5370d7403dbb0bda42000c6f",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Permutations (partial) with identicals ",
+    "link": "https://www.codewars.com/kata/57fdb79487b801698e000a0f",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Counting Letters of Consecutive Numbers",
+    "link": "https://www.codewars.com/kata/592456e9fb1f93c6ae00000e",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Polynomial regression",
+    "link": "https://www.codewars.com/kata/553a45efb46fcf6c0a0000ea",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "look!! Rare Planetary Alignment!",
+    "link": "https://www.codewars.com/kata/5b2f3cf991c74687ab000082",
+    "languages": [
+      "java",
+      "javascript",
+      "python"
+    ]
+  },
+  {
+    "title": "Tank coding #1 : simple AIM systems",
+    "link": "https://www.codewars.com/kata/573b2776f5ce3fa09d000162",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Challenge Fun #21: Length Of Original Sticks",
+    "link": "https://www.codewars.com/kata/58c223ef8a452613e5000308",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Substitution Rulez",
+    "link": "https://www.codewars.com/kata/56da27aed297ba35c5000707",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Operation - Steal the Election!",
+    "link": "https://www.codewars.com/kata/57f819a367c96aff130013c2",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Lights Out",
+    "link": "https://www.codewars.com/kata/55ad4e4b2a67de35fb000128",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "xml to object - xml #1",
+    "link": "https://www.codewars.com/kata/55e65b1f1f3034faf2000013",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "new IntStorage(byteLength).write(value, length)",
+    "link": "https://www.codewars.com/kata/538c3ee31779e363e700053a",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Challenge Fun #7: N To The N",
+    "link": "https://www.codewars.com/kata/589d26f3e8afb7532f000078",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Simple Fun #335: Two Programmers And Gold",
+    "link": "https://www.codewars.com/kata/59549d482a68fe3bc2000146",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Magic Squares",
+    "link": "https://www.codewars.com/kata/589fea75294db2bc1d00008f",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Paragraph Setting: Align Left",
+    "link": "https://www.codewars.com/kata/593da1ddacdf048c93000023",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Sparse Ruler",
+    "link": "https://www.codewars.com/kata/55191a2bcd82ffd5070006fd",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Function Wrappers: Inline Testing",
+    "link": "https://www.codewars.com/kata/5530d0bc5668371329000027",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Counting E-Primes",
+    "link": "https://www.codewars.com/kata/56da27ae7955f2cfce000666",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "How many dots are covered",
+    "link": "https://www.codewars.com/kata/590c6a479f4b9f28e6000084",
+    "languages": [
+      "haskell",
+      "javascript",
+      "php",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Simple non-decreasing array",
+    "link": "https://www.codewars.com/kata/5b17a64044342207800000b9",
+    "languages": [
+      "javascript",
+      "python",
+      "ruby"
+    ]
+  },
+  {
+    "title": "Simple Fun #287: Multiply Numbers",
+    "link": "https://www.codewars.com/kata/591bc86518ff1ff1fa000051",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Half Prices",
+    "link": "https://www.codewars.com/kata/5c7141ac847c7c4af9331e96",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "myjinxin katas #004 : Soldier's queue training(easy version)",
+    "link": "https://www.codewars.com/kata/57e23d378a8b8de758000b41",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Insert into xml object - xml #3",
+    "link": "https://www.codewars.com/kata/56cf504761603455580012ab",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "The map and the keys",
+    "link": "https://www.codewars.com/kata/55d2eb4e13e1c3d1b90000a3",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Making squares with lines",
+    "link": "https://www.codewars.com/kata/5b210360bd03075a47001191",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Trucks Driver Time.",
+    "link": "https://www.codewars.com/kata/5824672334c53a539a000408",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Cracking CRC32",
+    "link": "https://www.codewars.com/kata/5b1f71609e40b9f10f00002f",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Caesar's Legions",
+    "link": "https://www.codewars.com/kata/598c00487beaca86ba000047",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Get Me Outa Here!",
+    "link": "https://www.codewars.com/kata/58e664b2ace2cc9246000170",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Workaholics' schedule",
+    "link": "https://www.codewars.com/kata/556eccbced5a989438000051",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Behavioural measures of a psychophysical threshold.",
+    "link": "https://www.codewars.com/kata/57545679fd30cc867b000e33",
+    "languages": [
+      "javascript"
+    ]
+  },
+  {
+    "title": "Find the Maximum Mean Value in the Array",
+    "link": "https://www.codewars.com/kata/5bd1385ff90023a22a0001fe",
+    "languages": [
+      "javascript"
+    ]
+  }
+]
