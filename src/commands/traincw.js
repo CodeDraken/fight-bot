@@ -53,6 +53,7 @@ const getChallenges = async (rank = 8, amount = 1, languages = []) => {
 module.exports = {
   name: 'traincw',
   description: 'Get a random selection of tasks by rank and language',
+  cooldown: 60,
 
   async execute (message, [rank, amount, ...languages]) {
     try {
