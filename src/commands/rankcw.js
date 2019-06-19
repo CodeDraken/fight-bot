@@ -73,7 +73,7 @@ module.exports = {
       cwEmbed.addField(`Total Challenges Completed`, `${completed}`, true)
       cwEmbed.addField(`Total Challenges Authored`, `${authored}`, true)
 
-      message.channel.send(cwEmbed)
+      return message.channel.send(cwEmbed)
     } catch (e) {
       console.log(e)
       return message.channel.send(`I couldn't find that user!`)
