@@ -54,6 +54,7 @@ module.exports = {
   name: 'traincw',
   description: 'Get a random selection of tasks by rank and language',
   cooldown: 60,
+  usage: '{1-8 kyu rank} {1-5 amount} {...languages}',
 
   async execute (message, [rank, amount, ...languages]) {
     try {
@@ -64,7 +65,7 @@ module.exports = {
       }
 
       if (isNaN(rank)) {
-        return message.channel.send(`Invalid query!`)
+        return message.channel.send('Invalid query!')
       }
 
       if (amount > 5) {
@@ -82,7 +83,7 @@ module.exports = {
       const challenges = await getChallenges(rank, amount, languages)
 
       if (!challenges) {
-        return message.channel.send(`I couldn't find any challenges!`)
+        return message.channel.send('I couldn\'t find any challenges!')
       }
 
       const languagesStr = languages.length
@@ -91,10 +92,10 @@ module.exports = {
 
       const cwEmbed = new Discord.RichEmbed()
         .setColor('#8E372A')
-        .setTitle(`CodeWars Training`)
+        .setTitle('CodeWars Training')
         .setTimestamp()
         .setDescription(`Training on ${rank} kyu, ${amount} challenges in ${languagesStr}`)
-        .setFooter(`Use !traincw {1-8 kyu rank} {1-5 amount} {...languages}`)
+        .setFooter('Use !traincw {1-8 kyu rank} {1-5 amount} {...languages}')
 
       challenges.forEach(({ title, link, languages: kataLangs }) => {
         cwEmbed.addField(title, `${link}\nAvailable in: ${kataLangs.join(', ')}`)
@@ -103,7 +104,7 @@ module.exports = {
       return message.channel.send(cwEmbed)
     } catch (e) {
       console.log(e)
-      return message.channel.send(`I couldn't find any challenges!`)
+      return message.channel.send('I couldn\'t find any challenges!')
     }
   }
 }
