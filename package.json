@@ -41,7 +41,7 @@
     "standard": "^14.3.1"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0",
     "fs-extra": "^8.1.0",
